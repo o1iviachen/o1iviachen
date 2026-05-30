@@ -1,7 +1,8 @@
 # hi! i'm olivia.
 
-currently 
+currently on a gap year
 + building [bookd](https://bookd-app.com/) (where all of my contributions go...)
 
-previously
-+ software engineer intern at nokia
+previously in high school
++ interned at nokia
++ co-authored a computational chemistry paper
