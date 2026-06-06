@@ -7,5 +7,5 @@ previously in high school
 + interned at nokia
 + co-authored a computational chemistry paper
 
-off the laptop
+offline
 + you can find me playing [soccer](https://youtu.be/Zv0ds1iouBQ?si=A7hbWfmMuaWSFjEV)
