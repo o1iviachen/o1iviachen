@@ -1,4 +1,4 @@
-# hi! i'm olivia.
+# hi! i'm olivia
 
 currently on a gap year
 + building [bookd](https://bookd-app.com/) (where all of my contributions go...)
